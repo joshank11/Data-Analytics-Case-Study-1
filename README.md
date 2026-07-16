@@ -42,9 +42,9 @@ The Jupyter Notebook (`.ipynb`) replicates the database logic using high-perform
 ---
 
 ## 📂 Repository Structure
-*   `Problem_Statement.pdf`: The detailed business prompt and context.
-*   `solution.sql`: The optimized relational database query.
-*   `solution.ipynb`: The step-by-step Pandas and NumPy implementation walkthrough.
+*   `DataAnalytics_Case_Study_1_Questionnaire.pdf`: The detailed business prompt and context.
+*   `Case1(fact,Product,Location).sql`: The optimized relational database query.
+*   `Case1(fact,Product,Location).ipynb`: The step-by-step Pandas and NumPy implementation walkthrough.
 
 ---
 *Connect with me on LinkedIn as I share my daily progression toward AI Engineering!*
